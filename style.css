@@ -17,7 +17,7 @@ body {
 
 .intro {
   background-color: var(--palecyan);
-  background-image: url(/images/bg-hero-mobile.svg);
+  background-image: url(./images/bg-hero-mobile.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
